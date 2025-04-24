@@ -47,7 +47,7 @@ Analyze and visualize internship data to uncover patterns in completion, dropout
 
 ## 🌐 Preview
 
-[Internship Program Analysis Dashboard Screenshot](Internship Program Analysis Dashboard.jpg)
+[Internship Program Analysis Dashboard Screenshot](Internship Program Analysis Dashboard  .jpg)
 
 ---
 
